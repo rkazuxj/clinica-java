@@ -84,6 +84,20 @@ Aplicacao.java
 
 ---
 
+## 📸 Demonstração
+
+### Menu principal
+
+![Menu](imgs/menu.png)
+
+### Cadastro de paciente
+
+![Cadastro](imgs/cadastro.png)
+
+### Listagem de pacientes
+
+![Lista](imgs/lista.png)
+
 ## 👨‍💻 Desenvolvedores
 
 - **Rodrigo Kazuya Maeshiro**
