@@ -88,15 +88,15 @@ Aplicacao.java
 
 ### Menu principal
 
-![Menu](imgs/menu.png)
+![Menu](img/menu.png)
 
 ### Cadastro de paciente
 
-![Cadastro](imgs/cadastro.png)
+![Cadastro](img/cadastro.png)
 
 ### Listagem de pacientes
 
-![Lista](imgs/lista.png)
+![Lista](img/lista.png)
 
 ## 👨‍💻 Desenvolvedores
 
