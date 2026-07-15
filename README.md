@@ -94,9 +94,9 @@ Aplicacao.java
 
 ![Cadastro](img/cadastro.png)
 
-### Listagem de pacientes
+### Agendamento concluído
 
-![Lista](img/lista.png)
+![Lista](img/consulta.png)
 
 ## 👨‍💻 Desenvolvedores
 
