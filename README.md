@@ -90,7 +90,7 @@ Aplicacao.java
 
 ![Menu](img/menu.png)
 
-### Cadastro de paciente
+### Cadastro de Médico
 
 ![Cadastro](img/cadastro.png)
 
